@@ -1,11 +1,11 @@
 [
    {
       "x":"UMC Groningen",
-      "y":81
+      "y":83
    },
    {
       "x":"Amsterdam UMC",
-      "y":113
+      "y":115
    },
    {
       "x":"Erasmus MC",
@@ -13,11 +13,11 @@
    },
    {
       "x":"Maastricht UMC",
-      "y":16
+      "y":17
    },
    {
       "x":"Leiden UMC",
-      "y":53
+      "y":55
    },
    {
       "x":"Isala Klinieken",
@@ -25,6 +25,6 @@
    },
    {
       "x":"OLVG",
-      "y":8
+      "y":9
    }
 ]
