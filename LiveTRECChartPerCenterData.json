@@ -1,1 +1,14 @@
-[]
+[
+   {
+      "x":"Amsterdam UMC",
+      "y":1
+   },
+   {
+      "x":"Medisch Spectrum Twente",
+      "y":1
+   },
+   {
+      "x":"Overig",
+      "y":1
+   }
+]
