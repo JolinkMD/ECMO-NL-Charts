@@ -1,11 +1,11 @@
 [
    {
       "x":"Amsterdam UMC (🇳🇱)",
-      "y":1
+      "y":11
    },
    {
       "x":"UMC Groningen (🇳🇱)",
-      "y":0
+      "y":3
    },
    {
       "x":"Erasmus MC (🇳🇱)",
@@ -29,14 +29,18 @@
    },
    {
       "x":"Medisch Spectrum Twente (🇳🇱)",
-      "y":0
+      "y":1
    },
    {
       "x":"Hôpital Erasme (🇧🇪)",
+      "y":2
+   },
+   {
+      "x":"University Hospital Leuven Medical (🇧🇪)",
       "y":0
    },
    {
-      "x":"University Hospital Leuven (🇧🇪)",
+      "x":"University Hospital Leuven Surgical (🇧🇪)",
       "y":0
    },
    {
