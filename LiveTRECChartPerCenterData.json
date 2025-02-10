@@ -25,7 +25,7 @@
    },
    {
       "x":"St. Antonius Ziekenhuis (🇳🇱)",
-      "y":0
+      "y":1
    },
    {
       "x":"Medisch Spectrum Twente (🇳🇱)",
@@ -33,7 +33,7 @@
    },
    {
       "x":"Hôpital Erasme (🇧🇪)",
-      "y":2
+      "y":3
    },
    {
       "x":"University Hospital Leuven Medical (🇧🇪)",
@@ -41,7 +41,7 @@
    },
    {
       "x":"University Hospital Leuven Surgical (🇧🇪)",
-      "y":3
+      "y":4
    },
    {
       "x":"C.H.U. de Charleroi (🇧🇪)",
@@ -49,14 +49,6 @@
    },
    {
       "x":"Karolinska Institutet (🇸🇪)",
-      "y":0
-   },
-   {
-      "x":"Kepler Universitäts Klinikum (🇦🇹)",
-      "y":0
-   },
-   {
-      "x":"University and Polytechnic La Fe Hospital (🇪🇸)",
       "y":0
    }
 ]
