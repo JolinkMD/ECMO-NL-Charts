@@ -1,7 +1,7 @@
 [
    {
       "x":"Amsterdam UMC (🇳🇱)",
-      "y":15
+      "y":16
    },
    {
       "x":"UMC Groningen (🇳🇱)",
@@ -25,7 +25,7 @@
    },
    {
       "x":"St. Antonius Ziekenhuis (🇳🇱)",
-      "y":2
+      "y":4
    },
    {
       "x":"Medisch Spectrum Twente (🇳🇱)",
@@ -33,11 +33,11 @@
    },
    {
       "x":"Hôpital Erasme (🇧🇪)",
-      "y":4
+      "y":5
    },
    {
       "x":"University Hospital Leuven Medical (🇧🇪)",
-      "y":4
+      "y":5
    },
    {
       "x":"University Hospital Leuven Surgical (🇧🇪)",
