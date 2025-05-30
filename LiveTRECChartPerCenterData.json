@@ -9,7 +9,7 @@
    },
    {
       "x":"Erasmus MC (🇳🇱)",
-      "y":0
+      "y":2
    },
    {
       "x":"Maastricht UMC (🇳🇱)",
@@ -33,7 +33,7 @@
    },
    {
       "x":"Hôpital Erasme (🇧🇪)",
-      "y":11
+      "y":12
    },
    {
       "x":"University Hospital Leuven Medical (🇧🇪)",
@@ -49,6 +49,6 @@
    },
    {
       "x":"Karolinska Institutet (🇸🇪)",
-      "y":2
+      "y":3
    }
 ]
