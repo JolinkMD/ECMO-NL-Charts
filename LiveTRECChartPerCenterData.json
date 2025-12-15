@@ -1,11 +1,11 @@
 [
    {
       "x":"Amsterdam UMC (🇳🇱)",
-      "y":41
+      "y":43
    },
    {
       "x":"UMC Groningen (🇳🇱)",
-      "y":18
+      "y":22
    },
    {
       "x":"Erasmus MC (🇳🇱)",
@@ -13,19 +13,19 @@
    },
    {
       "x":"Maastricht UMC (🇳🇱)",
-      "y":7
+      "y":8
    },
    {
       "x":"Leiden UMC (🇳🇱)",
-      "y":13
+      "y":14
    },
    {
       "x":"UMC Utrecht (🇳🇱)",
-      "y":4
+      "y":6
    },
    {
       "x":"St. Antonius Ziekenhuis (🇳🇱)",
-      "y":20
+      "y":21
    },
    {
       "x":"Medisch Spectrum Twente (🇳🇱)",
@@ -37,7 +37,7 @@
    },
    {
       "x":"University Hospital Leuven Medical (🇧🇪)",
-      "y":12
+      "y":16
    },
    {
       "x":"University Hospital Leuven Surgical (🇧🇪)",
@@ -49,6 +49,6 @@
    },
    {
       "x":"Karolinska Institutet (🇸🇪)",
-      "y":13
+      "y":14
    }
 ]
