@@ -1,1 +1,26 @@
-[]
+[
+   {
+      "x":"St. Antonius Ziekenhuis (🇳🇱)",
+      "y":0
+   }, 
+   {
+      "x":"Amsterdam UMC (🇳🇱)",
+      "y":0
+   },
+   {
+      "x":"UMC Groningen (🇳🇱)",
+      "y":0
+   },
+   {
+      "x":"Erasmus MC (🇳🇱)",
+      "y":0
+   },
+   {
+      "x":"Leiden UMC (🇳🇱)",
+      "y":0
+   },
+   {
+      "x":"UMC Utrecht (🇳🇱)",
+      "y":0
+   }
+]
