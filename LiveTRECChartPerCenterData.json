@@ -24,11 +24,11 @@
       "y":18
    },
    {
-      "x":["St. Antonius","Ziekenhuis (🇳🇱)"],
+      "x":"St. Antonius Ziekenhuis (🇳🇱)",
       "y":29
    },
    {
-      "x":["Medisch Spectrum","Twente (🇳🇱)"],
+      "x":"Medisch Spectrum Twente (🇳🇱)",
       "y":7
    },
    {
@@ -36,11 +36,11 @@
       "y":38
    },
    {
-      "x":["University Hospital","Leuven Medical (🇧🇪)"],
+      "x":"University Hospital Leuven Medical (🇧🇪)",
       "y":25
    },
    {
-      "x":["University Hospital","Leuven Surgical (🇧🇪)"],
+      "x":"University Hospital Leuven Surgical (🇧🇪)",
       "y":44
    },
    {
