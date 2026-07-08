@@ -1,58 +1,58 @@
 [
    {
-      "x":"Amsterdam UMC (🇳🇱)",
-      "y":67
+      "y":"Amsterdam UMC (🇳🇱)",
+      "x":67
    },
    {
-      "x":"UMC Groningen (🇳🇱)",
-      "y":36
+      "y":"UMC Groningen (🇳🇱)",
+      "x":36
    },
    {
-      "x":"Erasmus MC (🇳🇱)",
-      "y":9
+      "y":"Erasmus MC (🇳🇱)",
+      "x":9
    },
    {
-      "x":"Maastricht UMC (🇳🇱)",
-      "y":16
+      "y":"Maastricht UMC (🇳🇱)",
+      "x":16
    },
    {
-      "x":"Leiden UMC (🇳🇱)",
-      "y":32
+      "y":"Leiden UMC (🇳🇱)",
+      "x":32
    },
    {
-      "x":"UMC Utrecht (🇳🇱)",
-      "y":20
+      "y":"UMC Utrecht (🇳🇱)",
+      "x":20
    },
    {
-      "x":"St. Antonius Ziekenhuis (🇳🇱)",
-      "y":31
+      "y":"St. Antonius Ziekenhuis (🇳🇱)",
+      "x":31
    },
    {
-      "x":"Medisch Spectrum Twente (🇳🇱)",
-      "y":7
+      "y":"Medisch Spectrum Twente (🇳🇱)",
+      "x":7
    },
    {
-      "x":"Hôpital Erasme (🇧🇪)",
-      "y":39
+      "y":"Hôpital Erasme (🇧🇪)",
+      "x":39
    },
    {
-      "x":"University Hospital Leuven Medical (🇧🇪)",
-      "y":25
+      "y":"University Hospital Leuven Medical (🇧🇪)",
+      "x":25
    },
    {
-      "x":"University Hospital Leuven Surgical (🇧🇪)",
-      "y":44
+      "y":"University Hospital Leuven Surgical (🇧🇪)",
+      "x":44
    },
    {
-      "x":"C.H.U. de Charleroi (🇧🇪)",
-      "y":13
+      "y":"C.H.U. de Charleroi (🇧🇪)",
+      "x":13
    },
    {
-      "x":"Karolinska Institutet (🇸🇪)",
-      "y":31
+      "y":"Karolinska Institutet (🇸🇪)",
+      "x":31
    },
    {
-      "x":"MedUni Wien (🇦🇹)",
-      "y":3
+      "y":"MedUni Wien (🇦🇹)",
+      "x":3
    }
 ]
