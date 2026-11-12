@@ -1,15 +1,15 @@
 [
    {
       "y":"Amsterdam UMC (🇳🇱)",
-      "x":80
+      "x":85
    },
    {
       "y":"UMC Groningen (🇳🇱)",
-      "x":44
+      "x":45
    },
    {
       "y":"Erasmus MC (🇳🇱)",
-      "x":15
+      "x":16
    },
    {
       "y":"Maastricht UMC (🇳🇱)",
@@ -17,7 +17,7 @@
    },
    {
       "y":"Leiden UMC (🇳🇱)",
-      "x":38
+      "x":40
    },
    {
       "y":"UMC Utrecht (🇳🇱)",
@@ -33,7 +33,7 @@
    },
    {
       "y":"Radboud UMC (🇳🇱)",
-      "x":4
+      "x":6
    },
    {
       "y":"Amphia Breda (🇳🇱)",
@@ -62,5 +62,10 @@
    {
       "y":"MedUni Wien (🇦🇹)",
       "x":7
+   }
+   ,
+   {
+      "y":"Kepler Universitätsklinikum (🇦🇹)",
+      "x":1
    }
 ]
