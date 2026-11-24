@@ -5,7 +5,7 @@
    },
    {
       "y":"UMC Groningen (🇳🇱)",
-      "x":45
+      "x":47
    },
    {
       "y":"Erasmus MC (🇳🇱)",
@@ -41,7 +41,7 @@
    },
    {
       "y":"Hôpital Erasme (🇧🇪)",
-      "x":41
+      "x":42
    },
    {
       "y":"University Hospital Leuven Medical (🇧🇪)",
@@ -49,7 +49,7 @@
    },
    {
       "y":"University Hospital Leuven Surgical (🇧🇪)",
-      "x":46
+      "x":49
    },
    {
       "y":"C.H.U. de Charleroi (🇧🇪)",
@@ -66,6 +66,6 @@
    ,
    {
       "y":"Kepler Universitätsklinikum (🇦🇹)",
-      "x":1
+      "x":2
    }
 ]
